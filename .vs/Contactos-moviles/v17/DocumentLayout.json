@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\views\\contactoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\views\\contactoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\views\\contactoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\views\\contactoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\views\\contactoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\views\\contactoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\views\\contactoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\views\\contactoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\views\\contactoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\views\\contactoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\controllers\\contactoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\controllers\\contactoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\views\\contactoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\views\\contactoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\views\\contactoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\views\\contactoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\views\\contactoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\views\\contactoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\controllers\\contactoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\controllers\\contactoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\models\\personascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|c:\\users\\kalil camilo\\documents\\programas de c#\\contactos-moviles\\contactos-moviles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3655B90-6B6F-4B1B-B355-7BB95FE35471}|Contactos-moviles\\Contactos-moviles.csproj|solutionrelative:contactos-moviles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,24 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Contactos-moviles\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Contactos-moviles\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T22:58:16.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Contactoes\\Delete.cshtml",
               "RelativeDocumentMoniker": "Contactos-moviles\\Views\\Contactoes\\Delete.cshtml",
@@ -83,67 +70,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Contactoes\\Details.cshtml",
               "RelativeDocumentMoniker": "Contactos-moviles\\Views\\Contactoes\\Details.cshtml",
               "ToolTip": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Contactoes\\Details.cshtml",
               "RelativeToolTip": "Contactos-moviles\\Views\\Contactoes\\Details.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-23T22:51:38.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Contactoes\\Edit.cshtml",
               "RelativeDocumentMoniker": "Contactos-moviles\\Views\\Contactoes\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Contactoes\\Edit.cshtml",
               "RelativeToolTip": "Contactos-moviles\\Views\\Contactoes\\Edit.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-23T22:48:32.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Contactoes\\Create.cshtml",
               "RelativeDocumentMoniker": "Contactos-moviles\\Views\\Contactoes\\Create.cshtml",
               "ToolTip": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Contactoes\\Create.cshtml",
               "RelativeToolTip": "Contactos-moviles\\Views\\Contactoes\\Create.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-23T22:39:05.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Contactoes\\Index.cshtml",
               "RelativeDocumentMoniker": "Contactos-moviles\\Views\\Contactoes\\Index.cshtml",
               "ToolTip": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Contactoes\\Index.cshtml",
               "RelativeToolTip": "Contactos-moviles\\Views\\Contactoes\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAADAlpmZmRkWwDUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T03:00:08.168Z"
+              "WhenOpened": "2025-01-23T03:00:08.168Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Contactos-moviles\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Contactos-moviles\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T02:46:17.696Z"
+              "WhenOpened": "2025-01-23T02:46:17.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Program.cs",
+              "RelativeDocumentMoniker": "Contactos-moviles\\Program.cs",
+              "ToolTip": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Program.cs",
+              "RelativeToolTip": "Contactos-moviles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T02:23:42.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Contactos-moviles\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Contactos-moviles\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T22:58:16.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ContactoesController.cs",
               "DocumentMoniker": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Controllers\\ContactoesController.cs",
               "RelativeDocumentMoniker": "Contactos-moviles\\Controllers\\ContactoesController.cs",
@@ -156,18 +169,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Program.cs",
-              "RelativeDocumentMoniker": "Contactos-moviles\\Program.cs",
-              "ToolTip": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Program.cs",
-              "RelativeToolTip": "Contactos-moviles\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:23:42.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\appsettings.json",
               "RelativeDocumentMoniker": "Contactos-moviles\\appsettings.json",
@@ -179,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "PersonasContext.cs",
               "DocumentMoniker": "C:\\Users\\Kalil Camilo\\Documents\\Programas de C#\\Contactos-moviles\\Contactos-moviles\\Models\\PersonasContext.cs",
               "RelativeDocumentMoniker": "Contactos-moviles\\Models\\PersonasContext.cs",
